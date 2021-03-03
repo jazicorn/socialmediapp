@@ -1,0 +1,8 @@
+{
+  "name": "socialmediapp",
+  "version": "1.0.0",
+  "description": "tutorial social media app",
+  "main": "index.js",
+  "author": "Jasmine Anderson",
+  "license": "MIT"
+}
