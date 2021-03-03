@@ -4,5 +4,10 @@
   "description": "tutorial social media app",
   "main": "index.js",
   "author": "Jasmine Anderson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.18"
+  }
 }
